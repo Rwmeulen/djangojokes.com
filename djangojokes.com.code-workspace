@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../../../../../../Downloads/pythondeveloper/starter-code"
+			"path": "../../../../../Downloads/pythondeveloper/solutions"
 		},
 		{
-			"path": "../../../../../../Downloads/pythondeveloper/solutions"
+			"path": "../../../../../Downloads/pythondeveloper/starter-code"
 		}
 	],
 	"settings": {}

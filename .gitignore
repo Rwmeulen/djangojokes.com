@@ -8,6 +8,8 @@ starter-code
 # Visual Code Studio workspace file
 djangojokescom.code-workspace
 
+# End MY ADDITIONS
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

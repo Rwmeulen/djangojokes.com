@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-g13_nwm^owets8&ynv90bzs^vl9ihga&0nuh!131*+v3dqw94h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rwmeulen.pythonanywhere.com']
+INTERNAL_IPS = [ # Necessary for the Debug Toolbar
+    '127.0.0.1',
+]
 
 
 # Application definition

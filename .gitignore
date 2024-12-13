@@ -6,7 +6,7 @@ starter-code
 .DS_Store
 
 # Visual Code Studio workspace file
-.code-workspace
+djangojokescom.code-workspace
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
